@@ -1,3 +1,5 @@
+This is a fork with some fixes 
+
 Angular Tooltips
 ==================
 
