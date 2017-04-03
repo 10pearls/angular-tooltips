@@ -1,6 +1,6 @@
 {
-  "name": "angular-tooltips",
-  "version": "1.1.4",
+  "name": "mp-angular-tooltips",
+  "version": "1.1.5",
   "description": "Angular.js tooltips module.",
   "homepage": "http://720kb.github.io/angular-tooltips",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/720kb/angular-tooltips.git"
+    "url": "https://github.com/zubair-farooqui-10p/angular-tooltips"
   },
   "license": "MIT",
   "devDependencies": {
@@ -57,6 +57,11 @@
       "name": "Dario Andrei",
       "email": "wouldgo84@gmail.com",
       "url": "https://github.com/wouldgo"
+    },
+    {
+      "name": "Zubair Farooqui",
+      "email": "zubairufarooqui@hotmail.com",
+      "url": "https://github.com/zubair-farooqui-10p"
     }
   ]
 }
